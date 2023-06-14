@@ -1,0 +1,15 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f7f7f7;
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}

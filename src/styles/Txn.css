@@ -1,0 +1,14 @@
+.txn {
+  box-sizing: border-box;
+  font-weight: bold;
+  /* background-color: #ce7a72; */
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem 2rem;
+  /* height: 5rem; */
+  box-shadow: rgba(100, 100, 111, 0.2) 2px 2px 8px 0px inset,
+    rgba(100, 100, 111, 0.2) -2px -2px 8px 0px inset;
+}
