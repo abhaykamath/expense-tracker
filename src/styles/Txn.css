@@ -1,14 +1,29 @@
 .txn {
   box-sizing: border-box;
   font-weight: bold;
-  /* background-color: #ce7a72; */
+  color: white;
   border-radius: 0.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  padding: 0.5rem 2rem;
-  /* height: 5rem; */
+  padding: 0.75rem 2rem;
   box-shadow: rgba(100, 100, 111, 0.2) 2px 2px 8px 0px inset,
     rgba(100, 100, 111, 0.2) -2px -2px 8px 0px inset;
+}
+
+.button-container {
+  box-sizing: border-box;
+  margin: 1rem 0;
+  padding: 1rem 0;
+  display: flex;
+  gap: 1rem;
+}
+
+#income {
+  background-color: #34a853;
+}
+
+#expense {
+  background-color: #ea4335;
 }
