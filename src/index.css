@@ -28,14 +28,6 @@ input[type="time"] {
   -webkit-appearance: none;
 }
 
-input[type="date"]::placeholder,
-input[type="time"]::placeholder {
-  font-family: "Roboto";
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 400;
-}
-
 input[type="date"]::-webkit-calendar-picker-indicator,
 input[type="time"]::-webkit-calendar-picker-indicator {
   background: none;
