@@ -1,6 +1,6 @@
 .txn {
   box-sizing: border-box;
-  font-weight: bold;
+  font-weight: 500;
   color: white;
   border-radius: 0.5rem;
   display: flex;
