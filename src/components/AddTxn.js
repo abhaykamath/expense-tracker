@@ -14,7 +14,6 @@ function AddTxn({ descRef, amountRef, dateRef, updateDate }) {
           updateDate(e.target.value);
         }}
         type="date"
-        placeholder="dd-mm-yyy"
       />
       <div className="lbl lbl-main">Amount</div>
       <input ref={amountRef} type="number" placeholder="Enter Amount" />
