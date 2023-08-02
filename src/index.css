@@ -13,3 +13,10 @@ body {
   display: flex;
   justify-content: center;
 }
+
+#txn-date {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  background-color: white !important;
+  color: black !important;
+}
